@@ -1,0 +1,3 @@
+- This project focuses on Object Oriented Programming concepts
+- Topics include: Runtime Polymorphism, Inheritance, Encapsulation, Interfaces, and Abstraction
+- In addition, it shows my work on UML Class Diagram of the Developer class
